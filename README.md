@@ -1,8 +1,7 @@
 # Login_Page_Testing_Project
-# Login Page Testing Project
 
 ## Project Overview
-A simple login page designed for practicing manual and automated testing skills. The project includes functional and regression testing for login functionality, covering both valid and invalid inputs.
+A simple login page designed for practicing manual testing skills. The project includes functional and regression testing for login functionality, covering both valid and invalid inputs.
 
 ## Purpose of Testing
 - Validate the login functionality under various scenarios.
@@ -17,15 +16,7 @@ A simple login page designed for practicing manual and automated testing skills.
 ## Project Structure
 - **LoginPage**: Contains HTML, CSS, and JavaScript for the login page.
 - **Test Cases**: Test cases covering login and validation.
-- **Bug Reports**: Bug report documentation.
 - **Test Results**: Execution results with test outcomes.
-- **Automation Scripts**: Basic Selenium script for login testing.
 
 ## Tools Used
 - **Manual Testing**
-- **Selenium (Optional)** for automation
-
-## How to Use
-1. Review test cases.
-2. Execute and record results in Test Results.
-3. Document any bugs in Bug Reports.
